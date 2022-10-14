@@ -1,0 +1,74 @@
+body{
+background-color:#D1D0CE;
+}
+
+#headdiv{
+	width:43%;
+	margin:0 auto;
+}
+
+#headdivtwo{
+	height:70px;
+	width:25%;
+	margin:10px auto;
+
+}
+
+#headdivtwo > div{
+	width:33%;
+	height:70px;
+	float:left;
+	line-height:50px;
+}
+#headdivtwo > div p{
+ font-weight:bolder;
+	font-size:20px;
+     margin-left:43%;
+	 float:left;
+ }
+ 
+ 
+ .titlediv{
+ font-weight:bolder;
+	width:15%;
+	margin:10px auto;
+ 
+ } 
+  .linkdiv{
+	font-weight:bolder;
+	width:21%;
+	margin:0px auto;
+	text-decoration:none
+ 
+ } 
+  .linkdiv >a{
+	color:black;
+	text-decoration:none
+ 
+ } 
+ .bodydiv{ 
+ font-weight:bolder;
+	width:60%;
+	margin:20px auto;
+ 
+ }
+ 
+  
+ .imgdiv{
+	width:60%;
+	margin:0 auto;
+ 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
